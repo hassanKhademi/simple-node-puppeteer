@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/hassanKhademi/node-Puppeteer_example/issues"
   },
-  "homepage": "https://github.com/hassanKhademi/node-Puppeteer_example#readme"
+  "homepage": "https://github.com/hassanKhademi/node-Puppeteer_example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
 }
