@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanKhademi/node-Puppeteer_example.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "hassanKhademi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanKhademi/node-Puppeteer_example/issues"
+  },
+  "homepage": "https://github.com/hassanKhademi/node-Puppeteer_example#readme"
+}
